@@ -1,7 +1,0 @@
-Project for Miles Everest (11373582) and Demietrich Baker
-
-1. When you run the command projectServer 5, it creates a server that accepts connections on port 5.
-2. The length of the output file is 4500141
-3. The resulting hash is 5eb6b47da2e220a8ec43d35137447e44ea7223f99b6d2b015b32261d21a55967
-4. I think the single byte at a time takes slightly longer, but not very much so. It is really hard to tell if there is a difference, so there isn't really a human discernable difference in my opinion. I think byte at a time actually takes slightly longer because there are more operations.
-5. Miles Everest and Demietrich Baker both spent about 11-12 hours each on this project.
