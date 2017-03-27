@@ -28,7 +28,6 @@ This is a local client and server that interact over a TCP connection
  
   Server behavior:
     The server never receives noMoreCommands.
- 
     For nullTerminatedCmd, givenLengthCmd, badIntCmd, goodIntCmd:
     reply with a 16 bit string length followed by a string containing
     the name of the command (i.e. commandNames[cmdByte]),
